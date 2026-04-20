@@ -2,6 +2,14 @@
   "releases": [
     {
       "version": "3.02-20260420",
+      "board": "supermini",
+      "notes": "Board filtering + firmware update UI fixes",
+      "date": "2026-04-20",
+      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.02-20260420-supermini.bin",
+      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.02-20260420-supermini-spiffs.bin"
+    },
+    {
+      "version": "3.02-20260420",
       "board": "seeed",
       "notes": "Release 3.02-20260420 for seeed",
       "date": "2026-04-20",
