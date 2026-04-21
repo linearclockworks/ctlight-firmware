@@ -2,18 +2,19 @@
   "releases": [
     {
       "version": "3.08-20260421",
-      "board": "supermini",
-      "notes": "update version",
-      "date": "2026-04-21",
-      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.08-20260421-supermini.bin"
-    },
-    {
-      "version": "3.08-20260421",
       "board": "seeed",
-      "notes": "show Progress bar on firmware update",
+      "notes": "update version",
       "date": "2026-04-21",
       "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.08-20260421-seeed.bin",
       "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.08-20260421-seeed-spiffs.bin"
+    },
+    {
+      "version": "3.09-20260421 ",
+      "board": "supermini",
+      "notes": "show Progress bar on firmware update",
+      "date": "2026-04-21",
+      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.09-20260421 -supermini.bin",
+      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.09-20260421 -supermini-spiffs.bin"
     }
   ]
 }
