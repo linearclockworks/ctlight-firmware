@@ -1,25 +1,18 @@
 {
   "releases": [
     {
-      "version": "3.02-20260420",
-      "board": "seeed",
-      "notes": "Release 3.02-20260420 for seeed",
-      "date": "2026-04-20",
-      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.02-20260420-seeed.bin"
-    },
-    {
-      "version": "3.01-20260416",
-      "board": "seeed",
-      "notes": "Release 3.01-20260416 for seeed",
-      "date": "2026-04-16",
-      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.01-20260416-seeed.bin"
-    },
-    {
       "version": "3.08-20260421",
       "board": "supermini",
       "notes": "update version",
       "date": "2026-04-21",
       "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.08-20260421-supermini.bin"
+    },
+    {
+      "version": "3.08-20260421",
+      "board": "seeed",
+      "notes": "update version",
+      "date": "2026-04-21",
+      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.08-20260421-seeed.bin"
     }
   ]
 }
