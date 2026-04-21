@@ -15,11 +15,11 @@
       "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.01-20260416-seeed.bin"
     },
     {
-      "version": "3.07-20260420",
+      "version": "3.08-20260421",
       "board": "supermini",
-      "notes": "better user management",
+      "notes": "update version",
       "date": "2026-04-21",
-      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.07-20260420-supermini.bin"
+      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.08-20260421-supermini.bin"
     }
   ]
 }
