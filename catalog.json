@@ -1,6 +1,14 @@
 {
   "releases": [
     {
+      "version": "3.06-20260425",
+      "board": "seeed",
+      "notes": "Emergency update - fixes board detection",
+      "date": "2026-04-25",
+      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.12-20260421-seeed.bin",
+      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.12-20260421-seeed-spiffs.bin"
+    },
+    {
       "version": "3.12-20260421",
       "board": "supermini",
       "notes": "Test auto-bump and git push",
