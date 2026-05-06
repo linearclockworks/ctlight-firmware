@@ -1,20 +1,20 @@
 {
   "releases": [
     {
-      "version": "3.27-20260504",
+      "version": "3.30-20260506",
       "board": "supermini",
       "notes": "Latest release for supermini",
-      "date": "2026-05-04",
-      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.27-20260504-supermini.bin",
-      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.27-20260504-supermini-spiffs.bin"
+      "date": "2026-05-06",
+      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.30-20260506-supermini.bin",
+      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.30-20260506-supermini-spiffs.bin"
     },
     {
-      "version": "3.27-20260504",
+      "version": "3.30-20260506",
       "board": "seeed",
       "notes": "Latest release for seeed",
-      "date": "2026-05-04",
-      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.27-20260504-seeed.bin",
-      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.27-20260504-seeed-spiffs.bin"
+      "date": "2026-05-06",
+      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.30-20260506-seeed.bin",
+      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.30-20260506-seeed-spiffs.bin"
     }
   ]
 }
