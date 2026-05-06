@@ -9,12 +9,12 @@
       "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.31-20260506-supermini-spiffs.bin"
     },
     {
-      "version": "3.31-20260506",
+      "version": "3.32-20260506",
       "board": "seeed",
-      "notes": "renamed UI tabs; consolidate noaa search buttons; auto-return to run mode after 2 minutes.",
+      "notes": "Latest release for seeed",
       "date": "2026-05-06",
-      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.31-20260506-seeed.bin",
-      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.31-20260506-seeed-spiffs.bin"
+      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.32-20260506-seeed.bin",
+      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.32-20260506-seeed-spiffs.bin"
     }
   ]
 }
