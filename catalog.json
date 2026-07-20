@@ -1,20 +1,20 @@
 {
   "releases": [
     {
-      "version": "3.49-20260706",
+      "version": "3.50-20260720",
       "board": "supermini",
-      "notes": "tide bar tails dont encroach on today's tide bars; ambient mode available",
-      "date": "2026-07-06",
-      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.49-20260706-supermini.bin",
-      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.49-20260706-supermini-spiffs.bin"
+      "notes": "auto-return to run mode from day or night tab only happens after 2 minutes of user inactivity",
+      "date": "2026-07-20",
+      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.50-20260720-supermini.bin",
+      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.50-20260720-supermini-spiffs.bin"
     },
     {
-      "version": "3.49-20260706",
+      "version": "3.50-20260720",
       "board": "seeed",
-      "notes": "tide bar tails dont encroach on today's tide bars; ambient mode available",
-      "date": "2026-07-06",
-      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.49-20260706-seeed.bin",
-      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.49-20260706-seeed-spiffs.bin"
+      "notes": "auto-return to run mode from day or night tab only happens after 2 minutes of user inactivity",
+      "date": "2026-07-20",
+      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.50-20260720-seeed.bin",
+      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.50-20260720-seeed-spiffs.bin"
     }
   ]
 }
