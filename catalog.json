@@ -1,20 +1,20 @@
 {
   "releases": [
     {
-      "version": "3.50-20260720",
+      "version": "3.51-20260804",
       "board": "supermini",
-      "notes": "auto-return to run mode from day or night tab only happens after 2 minutes of user inactivity",
-      "date": "2026-07-20",
-      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.50-20260720-supermini.bin",
-      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.50-20260720-supermini-spiffs.bin"
+      "notes": "restore/save factory defaults improved; ambient mode defaults to off;",
+      "date": "2026-08-04",
+      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.51-20260804-supermini.bin",
+      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.51-20260804-supermini-spiffs.bin"
     },
     {
-      "version": "3.50-20260720",
+      "version": "3.51-20260804",
       "board": "seeed",
-      "notes": "auto-return to run mode from day or night tab only happens after 2 minutes of user inactivity",
-      "date": "2026-07-20",
-      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.50-20260720-seeed.bin",
-      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.50-20260720-seeed-spiffs.bin"
+      "notes": "restore/save factory defaults improved; ambient mode defaults to off;",
+      "date": "2026-08-04",
+      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.51-20260804-seeed.bin",
+      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.51-20260804-seeed-spiffs.bin"
     }
   ]
 }
