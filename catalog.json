@@ -1,20 +1,20 @@
 {
   "releases": [
     {
-      "version": "3.51-20260804",
+      "version": "3.52-20260816",
       "board": "supermini",
-      "notes": "restore/save factory defaults improved; ambient mode defaults to off;",
-      "date": "2026-08-04",
-      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.51-20260804-supermini.bin",
-      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.51-20260804-supermini-spiffs.bin"
+      "notes": "improve AP reconnect, mDNS, boot status indicator, and wifi scanning, dynamic AP naming",
+      "date": "2026-08-16",
+      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.52-20260816-supermini.bin",
+      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.52-20260816-supermini-spiffs.bin"
     },
     {
-      "version": "3.51-20260804",
+      "version": "3.52-20260816",
       "board": "seeed",
-      "notes": "restore/save factory defaults improved; ambient mode defaults to off;",
-      "date": "2026-08-04",
-      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.51-20260804-seeed.bin",
-      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.51-20260804-seeed-spiffs.bin"
+      "notes": "improve AP reconnect, mDNS, boot status indicator, and wifi scanning, dynamic AP naming",
+      "date": "2026-08-16",
+      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.52-20260816-seeed.bin",
+      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.52-20260816-seeed-spiffs.bin"
     }
   ]
 }
