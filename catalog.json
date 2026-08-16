@@ -1,20 +1,20 @@
 {
   "releases": [
     {
-      "version": "3.52-20260816",
+      "version": "3.53-20260816",
       "board": "supermini",
-      "notes": "improve AP reconnect, mDNS, boot status indicator, and wifi scanning, dynamic AP naming",
+      "notes": "better wifi connect setup",
       "date": "2026-08-16",
-      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.52-20260816-supermini.bin",
-      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.52-20260816-supermini-spiffs.bin"
+      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.53-20260816-supermini.bin",
+      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.53-20260816-supermini-spiffs.bin"
     },
     {
-      "version": "3.52-20260816",
+      "version": "3.53-20260816",
       "board": "seeed",
-      "notes": "improve AP reconnect, mDNS, boot status indicator, and wifi scanning, dynamic AP naming",
+      "notes": "better wifi connect setup",
       "date": "2026-08-16",
-      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.52-20260816-seeed.bin",
-      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.52-20260816-seeed-spiffs.bin"
+      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.53-20260816-seeed.bin",
+      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.53-20260816-seeed-spiffs.bin"
     }
   ]
 }
