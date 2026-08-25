@@ -1,20 +1,20 @@
 {
   "releases": [
     {
-      "version": "3.55-20260817",
+      "version": "3.56-20260825",
       "board": "supermini",
-      "notes": "remove pin-swap attempt",
-      "date": "2026-08-17",
-      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.55-20260817-supermini.bin",
-      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.55-20260817-supermini-spiffs.bin"
+      "notes": "Sailing mode partial; seal clock for customer delivery; minor fixes",
+      "date": "2026-08-25",
+      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.56-20260825-supermini.bin",
+      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.56-20260825-supermini-spiffs.bin"
     },
     {
-      "version": "3.55-20260817",
+      "version": "3.56-20260825",
       "board": "seeed",
-      "notes": "remove pin-swap attempt",
-      "date": "2026-08-17",
-      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.55-20260817-seeed.bin",
-      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.55-20260817-seeed-spiffs.bin"
+      "notes": "Sailing mode partial; seal clock for customer delivery; minor fixes",
+      "date": "2026-08-25",
+      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.56-20260825-seeed.bin",
+      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.56-20260825-seeed-spiffs.bin"
     }
   ]
 }
