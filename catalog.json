@@ -1,20 +1,20 @@
 {
   "releases": [
     {
-      "version": "3.64-20260921",
+      "version": "3.65-20261019",
       "board": "supermini",
-      "notes": "respect older clocks setup whrn upgrading",
-      "date": "2026-09-21",
-      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.64-20260921-supermini.bin",
-      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.64-20260921-supermini-spiffs.bin"
+      "notes": "AP gets full setup screen, not just wifi setup.",
+      "date": "2026-10-19",
+      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.65-20261019-supermini.bin",
+      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.65-20261019-supermini-spiffs.bin"
     },
     {
-      "version": "3.64-20260921",
+      "version": "3.65-20261019",
       "board": "seeed",
-      "notes": "respect older clocks setup whrn upgrading",
-      "date": "2026-09-21",
-      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.64-20260921-seeed.bin",
-      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.64-20260921-seeed-spiffs.bin"
+      "notes": "AP gets full setup screen, not just wifi setup.",
+      "date": "2026-10-19",
+      "url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.65-20261019-seeed.bin",
+      "spiffs_url": "https://raw.githubusercontent.com/linearclockworks/ctlight-firmware/main/firmware/ctlight-3.65-20261019-seeed-spiffs.bin"
     }
   ]
 }
